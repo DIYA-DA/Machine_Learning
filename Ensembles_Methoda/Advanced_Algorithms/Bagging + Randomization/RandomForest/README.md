@@ -2,9 +2,9 @@
 
 ## 🚀 Project Overview
 
-This project builds a Machine Learning model that predicts whether a coffee sample is **Good Quality** or **Bad Quality** using sensory evaluation scores.
+ + This project builds a Machine Learning model that predicts whether a coffee sample is **Good Quality** or **Bad Quality** using sensory evaluation scores.
 
-The system uses **Ensemble Learning techniques** such as RandomForest and Bagging to improve prediction accuracy and stability.
++ The system uses **Ensemble Learning techniques** such as RandomForest and Bagging to improve prediction accuracy and stability.
 
 The project covers the complete ML workflow:
 
@@ -210,8 +210,8 @@ This project improved my understanding of **Ensemble Learning**.
 ## 👩‍💻 Author
 
 Diya Patel
-🎓 BCA Student
-🤖 Machine Learning Enthusiast
-📊 Interested in AI, Data Science, and Deep Learning
+- 🎓 BCA Student
+- 🤖 Machine Learning Enthusiast
+- 📊 Interested in AI, Data Science, and Deep Learning
 
 ---
