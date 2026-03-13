@@ -1,7 +1,7 @@
 # 📊 Supervised Machine Learning – Regression Projects
 
-This folder contains multiple **Supervised Machine Learning Regression projects** implemented using Python and Scikit-learn.
-Each project demonstrates a different regression technique with visualization, training, and evaluation.
+- This folder contains multiple **Supervised Machine Learning Regression projects** implemented using Python and Scikit-learn.
+- Each project demonstrates a different regression technique with visualization, training, and evaluation.
 
 ---
 
@@ -101,8 +101,9 @@ Compare different regression models and see the effect of regularization.
 ## 👩‍💻 Author
 
 Diya Patel
-Machine Learning Student
-Supervised ML Practice Projects
+
+- Machine Learning Student
+- Supervised ML Practice Projects
 
 ---
 
